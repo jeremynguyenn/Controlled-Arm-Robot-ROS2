@@ -45,7 +45,7 @@ move syrup to position 9
 ### System Architecture  
 ![System Architecture](https://github.com/jeremynguyenn/Controlled-Arm-Robot-ROS2/blob/main/ROS2-ARMRbot/system_architecture.jpg)  
 ### Tutorial  
-[🎥 Watch the Tutorial](https://github.com/jeremynguyenn/Controlled-Arm-Robot-ROS2/blob/main/ROS2-ARMRbot/Demo/Screen_Recording.gif)
+![🎥 Watch the Tutorial](https://github.com/jeremynguyenn/Controlled-Arm-Robot-ROS2/blob/main/ROS2-ARMRbot/Demo/Screen_Recording.gif)
 
 For Documented Result Read👉 [click](CONCLUSION.pdf)
 
